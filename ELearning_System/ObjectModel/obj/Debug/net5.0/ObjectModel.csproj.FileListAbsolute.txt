@@ -1,0 +1,15 @@
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\bin\Debug\net5.0\ObjectModel.deps.json
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\bin\Debug\net5.0\ObjectModel.runtimeconfig.json
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\bin\Debug\net5.0\ObjectModel.runtimeconfig.dev.json
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\bin\Debug\net5.0\ObjectModel.dll
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\bin\Debug\net5.0\ObjectModel.pdb
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\obj\Debug\net5.0\ObjectModel.csproj.AssemblyReference.cache
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\obj\Debug\net5.0\ObjectModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\obj\Debug\net5.0\ObjectModel.AssemblyInfoInputs.cache
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\obj\Debug\net5.0\ObjectModel.AssemblyInfo.cs
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\obj\Debug\net5.0\ObjectModel.csproj.CoreCompileInputs.cache
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\obj\Debug\net5.0\ObjectModel.dll
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\obj\Debug\net5.0\refint\ObjectModel.dll
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\obj\Debug\net5.0\ObjectModel.pdb
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\obj\Debug\net5.0\ObjectModel.genruntimeconfig.cache
+C:\Users\harshita.sharma\source\repos\ELearning_System\ObjectModel\obj\Debug\net5.0\ref\ObjectModel.dll

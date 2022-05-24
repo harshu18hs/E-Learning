@@ -1,0 +1,11 @@
+
+
+* Secret Key- where it is used, how it is used, signingkey
+* iis portal, kestrel portal and how to publish .net application
+* how to run program from command prompt
+* launch setting - in deep
+* 1 api
+
+
+
+
